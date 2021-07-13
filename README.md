@@ -1,0 +1,1 @@
+Practicing usual programs with GUI by PyQT5.
