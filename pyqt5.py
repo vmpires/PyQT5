@@ -17,6 +17,7 @@ class Janela(QMainWindow):
         self.setWindowTitle(self.titulo)
         self.show()
 
+
 aplicacao = QApplication(sys.argv)
 janela = Janela()
 sys.exit(aplicacao.exec_())
