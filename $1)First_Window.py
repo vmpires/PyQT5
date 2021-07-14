@@ -16,7 +16,7 @@ class Janela(QMainWindow):
         self.setGeometry(self.esquerda, self.topo, self.largura, self.altura)
         self.setWindowTitle(self.titulo)
         self.show()
-
+    
 
 aplicacao = QApplication(sys.argv)
 janela = Janela()
